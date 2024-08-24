@@ -19,24 +19,24 @@ global.location = "Nigeria, Lagos, africa" //ur location
 global.botname = 'Ɗāvīɗ 🤓' //ur bot name
 global.ownernumber = '2349048104511' //ur owner number
 global.ownername = 'Ɗāvīɗ 🤓' //ur owner name
-global.websitex = "https://chat.whatsapp.com/GJ5SGZWZ9wk3OcUwo20gG5"
-global.wagc = "https://chat.whatsapp.com/GJ5SGZWZ9wk3OcUwo20gG5"
+global.websitex = "https://whatsapp.com/channel/0029VagvH9tLdQeiUYXE7V43"
+global.wagc = "https://whatsapp.com/channel/0029VagvH9tLdQeiUYXE7V43"
 global.themeemoji = '🤓'
 global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD13' //script link
 global.packname = "Sticker By"
 global.author = "Ɗāvīɗ 🤓"
-global.creator = "2349048104511@s.whatsapp.net"
+global.creator = "2348022159244@s.whatsapp.net"
 global.xprefix = '.'
 global.premium = ["2349048104511"] // Premium User
 global.hituet = 0
 
 //bot sett
-global.typemenu = 'v8' // menu type 'v1' => 'v12'
-global.typereply = 'v4' // reply type 'v1' => 'v4'
+global.typemenu = 'v7' // menu type 'v1' => 'v12'
+global.typereply = 'v2' // reply type 'v1' => 'v4'
 global.autoblocknumber = '212' //set autoblock country code
 global.antiforeignnumber = '212' //set anti foreign number country code
-global.welcome = false //welcome/left in groups
+global.welcome = true //welcome/left in groups
 global.anticall = false //bot blocks user when called
 global.autoswview = false //auto status/story view
 global.adminevent = true //show promote/demote message
